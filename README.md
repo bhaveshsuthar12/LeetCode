@@ -14,5 +14,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1068-product-sales-analysis-i](https://github.com/bhaveshsuthar12/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bhaveshsuthar12/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 <!---LeetCode Topics End-->
