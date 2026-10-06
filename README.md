@@ -19,4 +19,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1068-product-sales-analysis-i](https://github.com/bhaveshsuthar12/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/bhaveshsuthar12/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/bhaveshsuthar12/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
