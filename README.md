@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0027-remove-element/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
