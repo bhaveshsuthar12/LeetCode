@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +65,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
