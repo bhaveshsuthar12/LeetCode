@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0066-plus-one/) | Easy |
+| [0120-triangle](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0120-triangle/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0120-triangle](https://github.com/bhaveshsuthar12/LeetCode/tree/main/0120-triangle/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
